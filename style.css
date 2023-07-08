@@ -1,0 +1,26 @@
+ body{
+    background-repeat:no-repeat;
+    background-color: green;
+    margin: 30px;
+ }
+
+ .forms{
+
+    background-color:#2380BB ;
+    margin: 300px;
+    margin-top:50px ;
+    
+
+
+ }    
+
+input[type="submit"]{
+
+    background-color:green;
+    cursor: pointer; 
+    padding-right:10px;
+}
+    
+
+    
+ 
